@@ -1,5 +1,10 @@
 # Linux Commands
 
+#### List files
+```
+ls
+```
+
 #### Install files with .deb extension
 ```
 sudo dpkg -i "namePackage.deb"
