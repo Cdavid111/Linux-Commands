@@ -8,11 +8,11 @@ write this code in your terminal
 
 ```
 git config --global credential.helper store
-
 ```
+
 for the next we are located in repository folder in write the next
 
 git pull and input your credentials
 
--User
--Password
+*User
+*Password
