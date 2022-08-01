@@ -38,4 +38,9 @@ rm "nameFolder"
 rm -R "nameFolder"
 ```
 
-#### next 
+#### Read all files text with .txt extension
+```
+cat *.txt
+```
+
+ 
