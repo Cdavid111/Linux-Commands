@@ -9,3 +9,21 @@ sudo dpkg -i "namePackage.deb"
 ```
 tar -zxvf "namePackage.deb.tar.gz"
 ```
+
+#### Remove any file or folder(empty)
+```
+rm "nameFile.txt"
+```
+or
+```
+rm "namePackage.deb"
+```
+or
+```
+rm "nameFolder"
+```
+
+#### Remove an folder that insn't empty
+```
+rm -R "nameFolder"
+```
