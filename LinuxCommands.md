@@ -5,6 +5,11 @@
 ls
 ```
 
+#### Show the current route
+```
+pwd
+```
+
 #### Install files with .deb extension
 ```
 sudo dpkg -i "namePackage.deb"
