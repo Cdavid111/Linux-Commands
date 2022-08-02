@@ -4,7 +4,10 @@
 ```
 ls
 ```
-
+#### List files in rows
+```
+ls -a
+```
 #### Show the current route
 ```
 pwd
