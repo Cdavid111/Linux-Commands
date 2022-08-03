@@ -22,7 +22,10 @@ sudo dpkg -i "namePackage.deb"
 ```
 tar -zxvf "namePackage.deb.tar.gz"
 ```
-
+#### Decompress files with .deb.tar.xz extension
+```
+tar -Jcvf "namePackage.deb.tar.xz"
+```
 #### Remove any file or folder(empty)
 ```
 rm "nameFile.txt"
