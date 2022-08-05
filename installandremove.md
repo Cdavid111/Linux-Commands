@@ -1,4 +1,4 @@
-# HOW INSTALL AND UNINSTALL 
+# How install and remove
 
 
 #### Add repository to the system
